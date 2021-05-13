@@ -2,9 +2,9 @@
 
 ## O que é? Para que serve? Como usar?
 
-Para uma boa performace nos momentos de estudos e trabalhos com os códigos é importante refinar e configurar bem suas ferramentas. Prettier é um plugin muito interessante na formatação automática e consistente dos códigos e textos editados no Visual Studio Code - VSCODE.
+Para uma boa performace nos momentos de estudos e trabalhos com os códigos é importante refinar e configurar bem suas ferramentas. Prettier é um plugin muito importante na formatação automática e consistente dos códigos e textos editados no Visual Studio Code - VSCODE.
 
-Atens de qualquer coisa, para trabalhar com o Prettier no VSCODE, será necessário instalar a extensão. Para fazer isso, procure por [Prettier - Code Formatter](https://prettier.io/) no painel de extensão do VS Code. Caso esteja instalando-o pela primeira vez, verá um botão install ao invés de uninstall mostrado no link. É possível instalar o plugin diretamente pelo VSCODE usando a barra de pesquisa e inserindo o comando:
+Antes de qualquer coisa, para trabalhar com o Prettier no VSCODE, será necessário instalar a extensão. Para fazer isso, procure por [Prettier - Code Formatter](https://prettier.io/) no painel de extensão do VS Code. Caso esteja instalando-o pela primeira vez, verá um botão install ao invés de uninstall mostrado no link. É possível instalar o plugin diretamente pelo VSCODE usando a barra de pesquisa e inserindo o comando:
 
 **ext install esbenp.prettier-vscode**
 
