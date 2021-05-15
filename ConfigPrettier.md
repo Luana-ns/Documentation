@@ -8,7 +8,7 @@ Antes de qualquer coisa, para trabalhar com o Prettier no VSCODE, será necessá
 
 **ext install esbenp.prettier-vscode**
 
-Com o prettier já instalado na maquina, podemos começar a formatatação automática do seu documento.
+Com o prettier já instalado na máquina, podemos começar a formatação automática do seu documento.
 
 ## Segue os links de artigos que colaboram para a formatação e instalação do seu código.
 
